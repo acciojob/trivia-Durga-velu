@@ -1,7 +1,6 @@
 
 /* Your CSS Code here. */
 blockquote{
-	">
 font-weight:bold;
 	max-width:600px;
 	margin:10px;
@@ -9,4 +8,5 @@ font-weight:bold;
 	border-left-width:8px;
 	border-left-color:green;
 	border-left-style:solid;
+}
 	background-color:lightcyan;
